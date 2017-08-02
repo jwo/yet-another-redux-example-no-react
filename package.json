@@ -1,0 +1,12 @@
+{
+  "name": "redux-stupid-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "webpack -w src/index.js build/app.js"
+  }
+}
